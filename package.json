@@ -1,0 +1,15 @@
+{
+  "name": "referer-blacklist",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.33",
+    "referrer-spam-blacklist": "git://github.com/piwik/referrer-spam-blacklist.git"
+  }
+}
